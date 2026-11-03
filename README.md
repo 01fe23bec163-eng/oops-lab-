@@ -8,10 +8,10 @@ A collection of C++ programs developed as part of the Object-Oriented Programmin
 
 | Field        | Details               |
 | ------------ | --------------------- |
-| **Name**     | Sagar M Nadagaddi |
-| **Roll No.** | 518                   |
-| **Division** | E                     |
-| **SRN**      | 01FE23BEC251          |
+| **Name**     | Hanamanth managuli  |
+| **Roll No.** | 403                  |
+| **Division** | D                     |
+| **SRN**      | 01FE23BEC163          |
 | **Semester** | VII                   |
 
 ---
